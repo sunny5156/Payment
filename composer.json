@@ -1,0 +1,13 @@
+{
+    "name": "sunny/payment",
+    "description": "聚合支付",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunny",
+            "email": "sunny5156@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
